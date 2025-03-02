@@ -17,3 +17,4 @@ $router->setDefaultNamespace('App\Controllers');
 $router->setDefaultController('InstallController');
 $router->setDefaultMethod('index');
 $router->handle($uri);
+?>
